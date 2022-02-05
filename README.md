@@ -1,5 +1,8 @@
 # Web Scraping English News
 
+![1_6M0FxnC6CD9L6xGwROl5jQ](https://user-images.githubusercontent.com/85668824/152629704-0c73f23e-e6b7-44ce-86db-00257a83e538.png)
+
+
 Web scraping is the process of collecting and parsing raw data from the Web, and the Python community has come up with some pretty powerful web scraping tools.
 
 Steps involved in web scraping:
